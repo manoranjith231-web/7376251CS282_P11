@@ -1,0 +1,17 @@
+# P11 Creature Index data
+# Format: No|Name|Type|HP|Attack|Defence|Speed|EvolvesTo
+001|Sprouty|Grass|45|49|49|45|002
+002|Leafling|Grass|60|62|63|60|003
+003|Florabeast|Grass|80|82|80|80|
+004|Flamelet|Fire|45|50|40|60|005
+005|Blazeling|Fire|60|65|55|75|006
+006|Infermax|Fire|80|90|75|100|
+007|Bubbli|Water|50|48|65|43|008
+008|Aquafin|Water|65|65|80|60|009
+009|Tsunamite|Water|85|85|95|75|
+010|Voltkit|Electric|40|55|40|90|011
+011|Thunderon|Electric|70|85|60|110|
+012|Pebblit|Rock|55|65|85|25|013
+013|Cragor|Rock|85|95|120|35|
+014|Skyfin|Water|52|58|50|72|
+015|Mossback|Grass|68|70|75|38|

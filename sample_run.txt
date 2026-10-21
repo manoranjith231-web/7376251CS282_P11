@@ -1,0 +1,48 @@
+SAMPLE TERMINAL RUN
+==================
+
+This is an example session. Your terminal output may differ depending on your choices.
+
+$ python main.py
+
+========== CREATURE INDEX ==========
+1. View all creatures
+2. Search creature
+3. Filter by type
+4. Compare two creatures
+5. Show evolution chain
+6. Battle two creatures
+7. Build/view team
+8. Exit
+Enter your choice: 2
+Enter creature number or name: 004
+004 Flamelet | Type: Fire | HP: 45 | Attack: 50 | Defence: 40 | Speed: 60 | Evolves to: 005
+
+========== CREATURE INDEX ==========
+1. View all creatures
+2. Search creature
+3. Filter by type
+4. Compare two creatures
+5. Show evolution chain
+6. Battle two creatures
+7. Build/view team
+8. Exit
+Enter your choice: 5
+Enter starting creature number or name: 004
+
+--- EVOLUTION CHAIN ---
+004 Flamelet | Type: Fire | HP: 45 | Attack: 50 | Defence: 40 | Speed: 60 | Evolves to: 005
+005 Blazeling | Type: Fire | HP: 60 | Attack: 65 | Defence: 55 | Speed: 75 | Evolves to: 006
+006 Infermax | Type: Fire | HP: 80 | Attack: 90 | Defence: 75 | Speed: 100 | Evolves to: None
+
+========== CREATURE INDEX ==========
+1. View all creatures
+2. Search creature
+3. Filter by type
+4. Compare two creatures
+5. Show evolution chain
+6. Battle two creatures
+7. Build/view team
+8. Exit
+Enter your choice: 8
+Goodbye!
